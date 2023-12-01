@@ -1,2 +1,8 @@
-1) Custom scene is called `hw1_scene_5` and is located in "src/hw1_scenes.h". Image can be found in top level directory as "Custom.exr"
-2) No bonus, but for high value of `spp` (~30+), it will take a while to render (30+ mins). Also, may occasionally get bus errors, but just please run code again and it should work.
+1) Generally works, but there are still some bugs that I want to iron out. (Development process can be found in associated [project](https://github.com/users/jphung101/projects/1))
+2) Here are some interesting bugs that I came across during developement and managed to solve:
+# Scattering
+![Scattering](Scattering.png)
+
+# Shadow Acne
+![Shadow Acne](ShadowAcne.png) 
+
